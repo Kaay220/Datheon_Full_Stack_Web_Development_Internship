@@ -75,7 +75,7 @@ To run this project locally:
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_GITHUB_REPOSITORY_URL
+   git clone https://github.com/Kaay220/Datheon_Full_Stack_Web_Development_Internship.git
    ```
 
 2. Navigate into the project folder:
